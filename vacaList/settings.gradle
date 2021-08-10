@@ -1,0 +1,2 @@
+rootProject.name = "vacaList"
+include ':app'
